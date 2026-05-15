@@ -1,0 +1,4 @@
+system:index,BSI_diff_2025_2019,NDBI_diff_2025_2019,NDVI_diff_2025_2019,id,name,name_ru,region,type,.geo
+00000000000000000000,0.0074,0.0067,0.0154,1,olkhon,Ольхон,Иркутская область,island,"{""type"":""MultiPoint"",""coordinates"":[]}"
+00000000000000000001,-0.0391,-0.0385,0.0279,2,curonian_spit,Куршская коса,Калининградская область,coastal,"{""type"":""MultiPoint"",""coordinates"":[]}"
+00000000000000000002,0.0089,0.0104,-0.0092,3,elbrus,Приэльбрусье,Кабардино-Балкарская Республика,mountain,"{""type"":""MultiPoint"",""coordinates"":[]}"

@@ -1,0 +1,4 @@
+system:index,SI_RF_final,SI_RF_final_class,SI_RF_mean,SI_RF_minus_base,SI_base_final,SI_base_mean,id,name,name_ru,region,risk_percent,type,year,.geo
+2_00000000000000000000,0.5489,средняя устойчивость,0.6062,0.0117,0.5383,0.5945,1,olkhon,Ольхон,Иркутская область,9.46,island,2025,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2_00000000000000000001,0.7117,высокая устойчивость,0.7195,0.0098,0.7020,0.7097,2,curonian_spit,Куршская коса,Калининградская область,1.09,coastal,2025,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2_00000000000000000002,0.6069,высокая устойчивость,0.6972,0.0105,0.5978,0.6867,3,elbrus,Приэльбрусье,Кабардино-Балкарская Республика,12.95,mountain,2025,"{""type"":""MultiPoint"",""coordinates"":[]}"
